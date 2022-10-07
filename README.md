@@ -1,2 +1,2 @@
-# dio-primeiro-reposirtoio
+# dio-primeiro-repositorio
 Desafio crie seu primeiro repositorio
